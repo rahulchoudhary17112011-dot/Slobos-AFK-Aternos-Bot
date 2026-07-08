@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "password": "rahul@9822",
+    "type": "online"
   },
   "server": {
     "ip": "ThaGamerz.aternos.me",
     "port": 46629,
-    "version": "",
+    "version": "1,21,11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,8 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "rahul@9822
+      "
     },
     "anti-afk": {
       "enabled": true,
